@@ -9,7 +9,7 @@ Presione 'Windows + F4' para eliminar el proceso de la ventana actual.This add-o
 Código original del complemento de Oriol Gómez.
 """
 
-#importamos los módulos requeridos y los metemos en un bloque try-except por si alguno no se puede usar, o no esté een el dispositivo.
+#Importamos los módulos requeridos y los metemos en un bloque try-except por si alguno no se puede usar, o no esté een el dispositivo.
 try:
     import api
     import winKernel
